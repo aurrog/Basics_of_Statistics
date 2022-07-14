@@ -1,0 +1,18 @@
+FORMULAS:
+
+mean = sum/h
+
+se = sd x/sqrt(h)
+se - standard error of the mean
+sd - standard deviation
+x - sample
+sqrt(h) - the square root of the number of observations
+
+95% of all observations lie within the radius of mean +- 1.96se
+
+H0 is the absence of significant differences between the mean of the sample and the mean of the population.
+H1 is a significant deviation between the sample mean and the population mean.
+p is the probability of obtaining such or even stronger deviation from the mean value, if H0 is true.
+The smaller p, the more reasons to reject the null hypothesis.
+Usually at p<0.05 we take H1, i.e. we got a statistically significant deviation.
+So, if we got p<0.05 and took H1, which is a significant deviation of the mean value of the sample from the mean value of the population gene, thus we got 95% probability that this sample is unrepresentative.
