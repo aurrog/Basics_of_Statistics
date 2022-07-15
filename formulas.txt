@@ -16,3 +16,5 @@ p is the probability of obtaining such or even stronger deviation from the mean 
 The smaller p, the more reasons to reject the null hypothesis.
 Usually at p<0.05 we take H1, i.e. we got a statistically significant deviation.
 So, if we got p<0.05 and took H1, which is a significant deviation of the mean value of the sample from the mean value of the population gene, thus we got 95% probability that this sample is unrepresentative.
+
+df = n-1
